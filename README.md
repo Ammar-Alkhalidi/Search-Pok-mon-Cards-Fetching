@@ -2,10 +2,10 @@
 Welcome to the Pokémon Search Engine! This simple yet powerful application allows Pokémon enthusiasts to search for their favorite Pokémon and explore detailed information, such as stats, abilities, and a visual representation.
 ----------------------------------------------
 # Features
-🔍 Search Pokémon: Enter the name or ID of any Pokémon to get detailed information.
-🖼️ Pokémon Image: See the default sprite of the Pokémon.
-📊 Stats: View base stats like HP, attack, defense, and more.
-🛠️ Abilities: Discover the Pokémon's unique abilities.
+-🔍 Search Pokémon: Enter the name or ID of any Pokémon to get detailed information.
+-🖼️ Pokémon Image: See the default sprite of the Pokémon.
+-📊 Stats: View base stats like HP, attack, defense, and more.
+-🛠️ Abilities: Discover the Pokémon's unique abilities.
 ----------------------------------------------
 # How to Use
 1- Enter a Pokémon Name or ID:
