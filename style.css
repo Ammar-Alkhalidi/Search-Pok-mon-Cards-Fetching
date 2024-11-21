@@ -1,0 +1,73 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #523917;
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .search-box {
+    margin-bottom: 20px;
+  }
+  
+  #pokemonSearch {
+    padding: 10px;
+    font-size: 16px;
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  #searchButton {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    background-color:#fe9900 ;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #searchButton:hover {
+    background-color:  #f7c96e;
+  }
+  
+  .card {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f7c96e;
+    display: none;
+  }
+  
+  .card img {
+    width: 150px;
+    margin-bottom: 20px;
+  }
+  
+  .card h2 {
+    margin-bottom: 10px;
+  }
+  
+  .card ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .card ul li {
+    text-align: left;
+    margin: 5px 0;
+  }
+  
+  .warning {
+    color: red;
+    font-weight: bold;
+  }
+  
