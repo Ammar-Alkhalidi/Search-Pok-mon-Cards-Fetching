@@ -16,7 +16,7 @@ Press the Search button to retrieve the Pokémon's details.
 
 3- View the Results:
 If the Pokémon is found, a card will display its:
-
+test
 Name
 Image
 Stats
