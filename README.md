@@ -1,5 +1,7 @@
 # Pokémon Search Engine
 Welcome to the Pokémon Search Engine! This simple yet powerful application allows Pokémon enthusiasts to search for their favorite Pokémon and explore detailed information, such as stats, abilities, and a visual representation.
+
+![](https://github.com/Ammar-Alkhalidi/Search-Pok-mon-Cards-Fetching/blob/main/Screencastfrom2025-01-1214-29-53-ezgif.com-video-to-gif-converter.webm)
 ----------------------------------------------
 # Features
 -🔍 Search Pokémon: Enter the name or ID of any Pokémon to get detailed information.
